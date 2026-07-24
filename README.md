@@ -10,21 +10,6 @@ A complete practical guide for the Computer Graphics Laboratory using <b>p5.js</
 
 ---
 
-# Table of Contents
-
-- Introduction
-- What is p5.js?
-- Installing & Running p5.js
-- Basic Structure of a p5.js Program
-- Frequently Used Functions
-- Coding Guidelines
-- Problem 01 – Basic Shapes and Colors
-- Problem 02 – Simple Graphical Scene
-- Problem 03 – Mouse Coordinates
-- Problem 04 – Moving Shape Animation
-
----
-
 # Introduction
 
 This repository contains the complete solutions of Computer Graphics Laboratory exercises using **p5.js**, a JavaScript library developed to make creative coding and graphics programming easier.
@@ -107,12 +92,6 @@ Every program includes
 - [Problem 27 – Shooting Game](#problem-27)
 
 ---
-
-## 📚 Additional Sections
-- [References](#references)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Author](#author)
 
 # What is p5.js?
 
@@ -330,7 +309,7 @@ Black
 
 ---
 
-# Problem 01
+# Problem 1
 ## Basic Drawing and Colors
 
 ### Objective
@@ -476,7 +455,7 @@ creates random color every execution.
 
 ---
 
-# Problem 02
+# Problem 2
 ## Simple Graphical Scene
 
 ### Objective
@@ -553,7 +532,7 @@ circle(112,210,90);
 
 ---
 
-# Problem 03
+# Problem 3
 ## Mouse Coordinates
 
 ### Objective
@@ -630,7 +609,7 @@ Current Y position of mouse.
 
 ---
 
-# Problem 04
+# Problem 4
 ## Basic Animation
 
 ### Objective
@@ -718,7 +697,7 @@ After completing this section, you should understand:
 
 ---
 
-# Problem 05
+# Problem 5
 # Bouncing Ball Animation
 
 ## Objective
@@ -986,7 +965,7 @@ The previous frames remain, producing a trail effect.
 
 ---
 
-# Problem 06
+# Problem 6
 # Changing Size and Color Animation
 
 ## Objective
@@ -1446,7 +1425,7 @@ These two introduce object-oriented thinking and the foundation of computer grap
 
 ---
 
-# Problem 07
+# Problem 7
 # Multiple Moving Objects
 
 ## Objective
@@ -1750,7 +1729,7 @@ Update both X and Y coordinates.
 
 ---
 
-# Problem 08
+# Problem 8
 # Translation Transformation
 
 ## Objective
@@ -2169,7 +2148,7 @@ These topics introduce the core transformation techniques used in modern compute
 
 ---
 
-# Problem 09
+# Problem 9
 # Rotation Transformation
 
 ## Objective
