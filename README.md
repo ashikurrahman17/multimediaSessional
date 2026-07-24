@@ -1,18 +1,18 @@
-# 🎨 Computer Graphics Laboratory Codebook using p5.js
+# 🎨 ANIMATION AND INTERACTIVE SYSTEMS Codebook using p5.js
 
 <p align="center">
 <img src="https://p5js.org/assets/img/p5js.svg" width="180">
 </p>
 
 <p align="center">
-A complete practical guide for the Computer Graphics Laboratory using <b>p5.js</b>.
+A complete practical guide for ANIMATION AND INTERACTIVE SYSTEMS using <b>p5.js</b>.
 </p>
 
 ---
 
 # Introduction
 
-This repository contains the complete solutions of Computer Graphics Laboratory exercises using **p5.js**, a JavaScript library developed to make creative coding and graphics programming easier.
+This repository contains the complete solutions of ANIMATION AND INTERACTIVE SYSTEMS Laboratory exercises using **p5.js**, a JavaScript library developed to make creative coding and graphics programming easier.
 
 The code examples are beginner-friendly and demonstrate important graphics concepts such as
 
